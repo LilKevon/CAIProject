@@ -1,1 +1,2 @@
 # CAIProject
+CAIProject: A school project, this Computer Assisted Instruction Project is designed to teach users how to utilize Arrays in Java. It features a progress bar, interactive questions in each section, a special learning acitivty(interactive coding session), and even a self-quiz at the end of the project. Created by using Java Swing, this project is perfect for beginners who require a boost for the understanding of Arrays.
